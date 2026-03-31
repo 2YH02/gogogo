@@ -1,3 +1,3 @@
 ## GoGoGo!!
 
-브라우저 위를 뛰어다니는 고퍼 — WASD와 마우스로 조종하는 3D 세계 탐험기.
+A Gopher escaped the terminal and now it's your problem — chase it around a 3D world with WASD before it compiles something weird.
